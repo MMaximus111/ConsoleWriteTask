@@ -1,0 +1,2 @@
+# ConsoleWriteTask
+Custom awaitable type
